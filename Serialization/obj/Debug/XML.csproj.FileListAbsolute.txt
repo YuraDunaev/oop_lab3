@@ -1,0 +1,6 @@
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Serialization\bin\Debug\Serialization.dll
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Serialization\bin\Debug\Serialization.pdb
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Serialization\obj\Debug\XML.csproj.AssemblyReference.cache
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Serialization\obj\Debug\XML.csproj.CoreCompileInputs.cache
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Serialization\obj\Debug\Serialization.dll
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Serialization\obj\Debug\Serialization.pdb

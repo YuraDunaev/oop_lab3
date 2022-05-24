@@ -1,0 +1,16 @@
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Inferface.exe.config
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Inferface.exe
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Inferface.pdb
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Classes.dll
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Serialization.dll
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Classes.pdb
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\bin\Debug\Serialization.pdb
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Interface.csproj.AssemblyReference.cache
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Inferface.InterfaceForm.resources
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Inferface.Properties.Resources.resources
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Interface.csproj.GenerateResource.cache
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Interface.csproj.CopyComplete
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Inferface.exe
+g:\Yura\w\ООП(ООТПИСП)\Lab3\Inferface\obj\Debug\Inferface.pdb
